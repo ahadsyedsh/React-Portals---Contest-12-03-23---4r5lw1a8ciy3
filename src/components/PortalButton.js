@@ -12,5 +12,3 @@ const PortalButton=(props)=>{
     )
 }
 export default PortalButton;
-
-//portal-button id will be used here for portal purpose
