@@ -4,7 +4,6 @@ import PortalButton from './PortalButton.js';
 import PortalTextArea from './PortalTextArea.js';
 import { createPortal } from 'react-dom';
 
-//complete the function 
 const App = () => {
 
 const[input,setInput]=useState("");
